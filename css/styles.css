@@ -3,3 +3,13 @@
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
+    float: left;
+  }
+
+.division2{
+        width: 300px;
+        border: 25px solid green;
+        padding: 25px;
+        margin: 25px;
+        float: left;
+}
