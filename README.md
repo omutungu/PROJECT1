@@ -54,7 +54,7 @@ Billie Thompson - Initial work - PurpleBooth
 See also the list of contributors who participated in this project.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the Moringa License - see the LICENSE.md file for details
 
 Acknowledgments
 Hat tip to anyone who helped me code the project and Inspiration
