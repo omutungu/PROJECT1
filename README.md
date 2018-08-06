@@ -1,4 +1,4 @@
-Portfolio Project
+PORTFOLIO PROJECT
 
 Prerequisites
 Atom and browser
